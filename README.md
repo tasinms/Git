@@ -8,9 +8,9 @@ List Of Important Git Commands.
 
 * [Push Code into New GitHub Repository](#push-code-into-new-github-repository)
   
-* [Push Code into Existing GitHub Repository](#push-code-into-new-github-repository)
+* [Push Code into Existing GitHub Repository](#push-code-into-existing-github-repository)
   
-* [Create Branch and Push Code to GitHub Repository](#push-code-into-new-github-repository)
+* [Create Branch and Push Code to GitHub Repository](#create-branch-and-push-code-to-github-repository)
 
 <br />
 

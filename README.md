@@ -19,6 +19,8 @@ List Of Important Git Commands.
 1. Create **[New Repository](https://github.com/new)** on GitHub
 
 2. Open Terminal inside VS Code
+	
+ 	![How to Open the Terminal in Visual Studio Code](https://i.imgur.com/CzXHxDd.gif)
 
 3. Initialize Directory as Git Repository
 	```bash
@@ -87,3 +89,13 @@ List Of Important Git Commands.
 	```bash
 	git push -u origin master/main
 	```
+
+<br />
+
+<br />
+
+<br />
+
+<!-- Signature -->
+<img align="right" src="https://i.imgur.com/vFb1T8l.png" alt="Logo" style="width:200px;">
+<!-- Signature -->

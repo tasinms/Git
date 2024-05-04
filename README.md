@@ -14,6 +14,10 @@
   
 * [Create Branch and Push Code to GitHub Repository](#create-branch-and-push-code-to-github-repository)
 
+* [Fetch Latest Changes from GitHub Repository's Main Branch](#fetch-latest-changes-from-github-repositorys-main-branch)
+
+* [Clone GitHub Repository](#clone-github-repository)
+
 <br />
 
 ## Push Code into New GitHub Repository
@@ -91,6 +95,22 @@
 	```bash
 	git push -u origin master/main
 	```
+
+<br />
+
+ ## Fetch Latest Changes from GitHub Repository's Main Branch
+
+```bash
+git pull origin master/main
+```
+
+<br />
+
+## Clone GitHub Repository
+
+```bash
+git clone https://github.com/account/Repository-Name.git
+```
 
 <br />
 

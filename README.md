@@ -18,6 +18,9 @@
 
 * [Clone GitHub Repository](#clone-github-repository)
 
+* [Rename Repository on GitHub](#rename-repository-on-github)
+ 
+
 <br />
 
 ## Push Code into New GitHub Repository
@@ -111,6 +114,17 @@ git pull origin master/main
 ```bash
 git clone https://github.com/account/Repository-Name.git
 ```
+
+<br />
+
+ ## Rename Repository on GitHub
+
+1. Change Repository Name on GitHub
+
+2. Update GitHub Repository Link Locally
+	```bash
+	git remote set-url origin NEW_URL
+	```
 
 <br />
 

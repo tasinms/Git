@@ -19,6 +19,8 @@
 * [Clone GitHub Repository](#clone-github-repository)
 
 * [Rename Repository on GitHub](#rename-repository-on-github)
+
+* [Change Default Branch Name on GitHub](#change-default-branch-name-on-github)
  
 
 <br />
@@ -128,13 +130,18 @@ git clone https://github.com/account/Repository-Name.git
 
 <br />
 
-## Change Default Branch on GitHub
+## Change Default Branch Name on GitHub
 
 1. Change Default Branch Name on GitHub
 
 2. Rename Local Branch
 	```bash
 	git branch -m currentBranchName newBranchName
+	```
+
+3. Push Code to GitHub
+	```bash
+	git push -u origin newBranchName
 	```
 
 <br />

@@ -6,6 +6,14 @@
 
 <br />
 
+## Prerequisite
+
+Open Terminal inside VS Code to Execute Git Commands 
+
+![How to Open the Terminal in Visual Studio Code](https://i.imgur.com/CzXHxDd.gif)
+
+<br />
+
 ## Index
 
 * [Push Code into New GitHub Repository](#push-code-into-new-github-repository)
@@ -29,31 +37,27 @@
 
 1. Create **[New Repository](https://github.com/new)** on GitHub
 
-2. Open Terminal inside VS Code
-	
- 	![How to Open the Terminal in Visual Studio Code](https://i.imgur.com/CzXHxDd.gif)
-
-3. Initialize Directory as Git Repository
+2. Initialize Local Directory as Git Repository
 	```bash
 	git init
 	```
 
-4. Add Files for Commit
+3. Add Files for Commit
 	```bash
 	git add .
 	```
 
-5. Commit
+4. Commit
 	```bash
 	git commit -m "Any Name"
 	```
 
-6. Add GitHub Repository Link
+5. Add GitHub Repository Link
 	```bash
 	git remote add origin https://github.com/account/Repository-Name.git
 	```
 
-7. Push Code to GitHub
+6. Push Code to GitHub
 	```bash
 	git push -u origin master/main
 	```
@@ -81,7 +85,7 @@
 
 ## Create Branch and Push Code to GitHub Repository
 
-1. Create New Branch
+1. Create New Branch Locally
 	```bash
 	git checkout -b branchName
 	```

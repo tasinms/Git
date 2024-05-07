@@ -81,7 +81,7 @@
 
 1. Create New Branch
 	```bash
-	git checkout -b branch_Name
+	git checkout -b branchName
 	```
 
 2. Add Files for Commit
@@ -124,6 +124,17 @@ git clone https://github.com/account/Repository-Name.git
 2. Update GitHub Repository Link Locally
 	```bash
 	git remote set-url origin NEW_URL
+	```
+
+<br />
+
+## Change Default Branch on GitHub
+
+1. Change Default Branch Name on GitHub
+
+2. Rename Local Branch
+	```bash
+	git branch -m currentBranchName newBranchName
 	```
 
 <br />

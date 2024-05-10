@@ -30,7 +30,6 @@ Open Terminal inside VS Code to Execute Git Commands
 
 * [Change Default Branch Name on GitHub](#change-default-branch-name-on-github)
  
-
 <br />
 
 ## Push Code into New GitHub Repository

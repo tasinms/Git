@@ -154,5 +154,5 @@ git clone https://github.com/account/Repository-Name.git
 <br />
 
 <!-- Signature -->
-<img align="right" src="https://i.imgur.com/vFb1T8l.png" alt="Logo" style="width:200px;">
+<img align="right" src="https://i.imgur.com/38Bcp0K.png" alt="Logo" style="width:200px;">
 <!-- Signature -->

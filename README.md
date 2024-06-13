@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/3V3y5NC.png" height="150">
   <h1 align="center">Git Commands</h1>
-  <p align="center">List Of Important Git Commands<p>
+  <p align="center">Important Git Commands<p>
 </p>
 
 <br />

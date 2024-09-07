@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://i.imgur.com/3V3y5NC.png" height="150">
-  <h1 align="center">Git Commands</h1>
-  <p align="center">Important Git Commands<p>
+  <h1 align="center">Git</h1>
+  <p align="center">Git Cheatsheet<p>
 </p>
 
 <br />
 
-## Prerequisite
+# Prerequisite
 
 Open Terminal inside VS Code to Execute Git Commands 
 
@@ -14,7 +14,7 @@ Open Terminal inside VS Code to Execute Git Commands
 
 <br />
 
-## Index
+# Index
 
 * [Push Code into New GitHub Repository](#push-code-into-new-github-repository)
   
@@ -24,6 +24,8 @@ Open Terminal inside VS Code to Execute Git Commands
 
 * [Fetch Latest Changes from GitHub Repository's Main Branch](#fetch-latest-changes-from-github-repositorys-main-branch)
 
+* [View Commit History](#view-commit-history)
+
 * [Clone GitHub Repository](#clone-github-repository)
 
 * [Rename Repository on GitHub](#rename-repository-on-github)
@@ -32,7 +34,7 @@ Open Terminal inside VS Code to Execute Git Commands
  
 <br />
 
-## Push Code into New GitHub Repository
+# Push Code into New GitHub Repository
 
 1. Create **[New Repository](https://github.com/new)** on GitHub
 
@@ -63,7 +65,7 @@ Open Terminal inside VS Code to Execute Git Commands
 
 <br />
 
-## Push Code into Existing GitHub Repository
+# Push Code into Existing GitHub Repository
 
 1. Add Files for Commit
 	```bash
@@ -82,7 +84,7 @@ Open Terminal inside VS Code to Execute Git Commands
 
 <br />
 
-## Create Branch and Push Code to GitHub Repository
+# Create Branch and Push Code to GitHub Repository
 
 1. Create New Branch Locally
 	```bash
@@ -106,7 +108,7 @@ Open Terminal inside VS Code to Execute Git Commands
 
 <br />
 
- ## Fetch Latest Changes from GitHub Repository's Main Branch
+ # Fetch Latest Changes from GitHub Repository's Main Branch
 
 ```bash
 git pull origin master/main
@@ -114,7 +116,21 @@ git pull origin master/main
 
 <br />
 
-## Clone GitHub Repository
+# View Commit History
+
+```bash
+git log --oneline --all
+```
+
+## Run Previous Commit
+
+```bash
+git checkout commitId
+```
+
+<br />
+
+# Clone GitHub Repository
 
 ```bash
 git clone https://github.com/account/Repository-Name.git
@@ -122,7 +138,7 @@ git clone https://github.com/account/Repository-Name.git
 
 <br />
 
- ## Rename Repository on GitHub
+ # Rename Repository on GitHub
 
 1. Change Repository Name on GitHub
 
@@ -133,7 +149,7 @@ git clone https://github.com/account/Repository-Name.git
 
 <br />
 
-## Change Default Branch Name on GitHub
+# Change Default Branch Name on GitHub
 
 1. Change Default Branch Name on GitHub
 

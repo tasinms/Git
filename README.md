@@ -6,7 +6,9 @@
 
 <br />
 
-# Prerequisite
+<h1 align="center">Prerequisite</h1>
+
+<br />
 
 Open Terminal inside VS Code to Execute Git Commands 
 
@@ -14,7 +16,9 @@ Open Terminal inside VS Code to Execute Git Commands
 
 <br />
 
-# Index
+<h1 align="center">Index</h1>
+
+<br />
 
 * [Push Code into New GitHub Repository](#push-code-into-new-github-repository)
   
@@ -31,10 +35,12 @@ Open Terminal inside VS Code to Execute Git Commands
 * [Rename Repository on GitHub](#rename-repository-on-github)
 
 * [Change Default Branch Name on GitHub](#change-default-branch-name-on-github)
- 
+
 <br />
 
-# Push Code into New GitHub Repository
+<h1 align="center">Push Code into New GitHub Repository</h1>
+
+<br />
 
 1. Create **[New Repository](https://github.com/new)** on GitHub
 
@@ -65,7 +71,9 @@ Open Terminal inside VS Code to Execute Git Commands
 
 <br />
 
-# Push Code into Existing GitHub Repository
+<h1 align="center">Push Code into Existing GitHub Repository</h1>
+
+<br />
 
 1. Add Files for Commit
 	```bash
@@ -84,7 +92,9 @@ Open Terminal inside VS Code to Execute Git Commands
 
 <br />
 
-# Create Branch and Push Code to GitHub Repository
+<h1 align="center">Create Branch and Push Code to GitHub Repository</h1>
+
+<br />
 
 1. Create New Branch Locally
 	```bash
@@ -108,7 +118,9 @@ Open Terminal inside VS Code to Execute Git Commands
 
 <br />
 
- # Fetch Latest Changes from GitHub Repository's Main Branch
+<h1 align="center">Fetch Latest Changes from GitHub Repository's Main Branch</h1>
+
+<br />
 
 ```bash
 git pull origin master/main
@@ -116,13 +128,17 @@ git pull origin master/main
 
 <br />
 
-# View Commit History
+<h1 align="center">View Commit History</h1>
+
+<br />
 
 ```bash
 git log --oneline --all
 ```
 
-## Run Previous Commit
+<br />
+
+# Run Previous Commit
 
 ```bash
 git checkout commitId
@@ -130,7 +146,11 @@ git checkout commitId
 
 <br />
 
-# Clone GitHub Repository
+<h1 align="center">Clone GitHub Repository</h1>
+
+<br />
+
+# Clone Inside Sub-Directory
 
 ```bash
 git clone https://github.com/account/Repository-Name.git
@@ -138,7 +158,17 @@ git clone https://github.com/account/Repository-Name.git
 
 <br />
 
- # Rename Repository on GitHub
+# Clone Inside Current Directory
+
+```bash
+git clone https://github.com/account/Repository-Name.git .
+```
+
+<br />
+
+<h1 align="center">Rename Repository on GitHub</h1>
+
+<br />
 
 1. Change Repository Name on GitHub
 
@@ -149,7 +179,9 @@ git clone https://github.com/account/Repository-Name.git
 
 <br />
 
-# Change Default Branch Name on GitHub
+<h1 align="center">Change Default Branch Name on GitHub</h1>
+
+<br />
 
 1. Change Default Branch Name on GitHub
 
